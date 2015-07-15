@@ -1,0 +1,37 @@
+/*------------------------------------------------------------------
+
+  Search Page
+
+-------------------------------------------------------------------*/
+.fire-search {
+  padding-top: 6rem;
+  padding-bottom: 6rem;
+}
+
+.fire-search > form input {
+  font-size: 2rem;
+  padding: 1.5rem 3rem;
+}
+
+.fire-search .angled-bg {
+  display: block;
+  width: 100%;
+  margin-bottom: 2rem;
+}
+
+.fire-search .angled-bg:hover,
+.fire-search .angled-bg:focus {
+  color: inherit;
+}
+
+.fire-search .angled-bg .price {
+  margin-top: 10px;
+  margin-right: 20px;
+  font-size: 1.6rem;
+  font-weight: bold;
+}
+
+.fire-search .angled-bg .date {
+  margin-top: 10px;
+  margin-right: 20px;
+}

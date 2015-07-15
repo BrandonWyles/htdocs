@@ -1,0 +1,37 @@
+/*------------------------------------------------------------------
+
+  Login
+
+-------------------------------------------------------------------*/
+.fire-login .fire-banner .info h2 {
+  font-size: 4rem;
+  margin-top: 0;
+  margin-bottom: 3rem;
+}
+
+.fire-login .fire-form {
+  max-width: 500px;
+  margin: 3rem auto;
+}
+
+.fire-login .fire-form form {
+  margin-top: 2rem;
+}
+
+.fire-login .fire-form input {
+  text-align: center;
+}
+
+.fire-login .fire-form button {
+  margin: 0;
+  width: 100%;
+}
+
+.fire-login .fire-form .social-list {
+  margin: 0;
+}
+
+.full.fire-login,
+.full.fire-login .fire-banner {
+  min-height: 510px;
+}

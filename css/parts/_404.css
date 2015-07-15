@@ -1,0 +1,20 @@
+/*------------------------------------------------------------------
+
+  404
+
+-------------------------------------------------------------------*/
+.fire-404 .fire-banner .info h2 {
+  font-size: 8rem;
+  margin-top: 0;
+  margin-bottom: 3rem;
+}
+
+.fire-404 form {
+  max-width: 400px;
+  margin: 3rem auto;
+}
+
+.full.fire-404,
+.full.fire-404 .fire-banner {
+  min-height: 400px;
+}
